@@ -1,7 +1,7 @@
 # 🚀 Sadhana Dash — Developer Portfolio
 
 Welcome to my first ever portfolio website:  
-🌐 **Live Demo : [ayushdas.vercel.app](https://ayushdas.vercel.app)**  
+🌐 **Live Demo : [sadhanadash.vercel.app](https://my-first-portfolio-rust-two.vercel.app)**  
 This site showcases who I am — developer, creator, and builder — in the simplest yet most impactful way.
 
 ![Portfolio Preview](./public/portfolio.png)

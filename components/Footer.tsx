@@ -13,7 +13,7 @@ export default function Footer() {
 
       <div className="flex gap-4 items-center">
         <a
-          href="https://github.com/Ayushdas1904"
+          href="https://github.com/Sadhanazyxs"
           target="_blank"
           rel="noopener noreferrer"
           className="hover:text-foreground transition-colors"
@@ -21,7 +21,7 @@ export default function Footer() {
           <FiGithub className="w-5 h-5" />
         </a>
         <a
-          href="https://www.linkedin.com/in/ayush-das-4674a1239/"
+          href="https://www.linkedin.com/in/sadhana-dash-2a5368351/"
           target="_blank"
           rel="noopener noreferrer"
           className="hover:text-foreground transition-colors"
@@ -29,7 +29,7 @@ export default function Footer() {
           <FiLinkedin className="w-5 h-5" />
         </a>
         <a
-          href="mailto:ayushdas1904@gmail.com"
+          href="sadhanadash2005@gmail.com"
           className="hover:text-foreground transition-colors"
         >
           <FiMail className="w-5 h-5" />
