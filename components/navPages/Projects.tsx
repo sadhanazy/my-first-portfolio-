@@ -19,13 +19,13 @@ export const techIconMap: Record<string, JSX.Element> = {
 
 const projects = [
   {
-    title: "ADfluence",
+    title: "Social Media App",
     description: "A creator brand collaboration website",
     thumbnail: "/project1.png",
     techStack: ["ts", "next", "mongo"],
     gradient: "#51fbfb, rgb(13, 1, 60)",
-    github: "https://github.com/sadhanazyn/ADfluence",
-    live: "https://adfluence-eosin.vercel.app/",
+    github: "https://github.com/sadhanazyn/",
+    live: "",
   },
   {
     title: "FitBuddy",
@@ -33,8 +33,8 @@ const projects = [
     thumbnail: "/project2.png",
     techStack: ["ts", "node", "express", "mongo"],
     gradient: "#14f195, rgb(13, 1, 60)",
-    github: "https://github.com/Ayushdas1904/FitBuddy",
-    live: "https://fit-buddy-2004.vercel.app/",
+    github: "",
+    live: "",
   },
   {
     title: "Prolingo",
@@ -42,8 +42,8 @@ const projects = [
     thumbnail: "/project3.png",
     techStack: ["ts", "node", "postgres"],
     gradient: "#64e, rgb(13, 1, 60)",
-    github: "https://github.com/Ayushdas1904/Hack-5.0-ProLingo",
-    live: "https://prolingo-alpha.vercel.app/",
+    github: "",
+    live: "",
   },
 ];
 

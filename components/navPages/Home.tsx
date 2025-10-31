@@ -16,8 +16,8 @@ export function Home() {
 
     const handleDownload = () => {
         const link = document.createElement('a');
-        link.href = '/resume.pdf';
-        link.download = 'Ayush_Das_Resume.pdf';
+        link.href = '/sadhana-1resume.pdf';
+        link.download = 'sadhana-1resume.pdf';
         document.body.appendChild(link);
         link.click();
         document.body.removeChild(link);
